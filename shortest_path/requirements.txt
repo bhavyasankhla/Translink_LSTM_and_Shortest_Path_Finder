@@ -1,0 +1,4 @@
+kombu==5.2.4
+pyspark==3.3.1
+spark_celery==0.2
+termcolor
