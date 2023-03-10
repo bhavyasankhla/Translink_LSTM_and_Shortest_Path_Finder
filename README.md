@@ -1,13 +1,5 @@
 # Project Proposal
 
-## **Project Members**
-
-- Abhishek Deshpande, asd27
-- Ayush Sharma, asa489
-- Bhavya Sankhla, bsa89
-- Gaurav Bhagchandani, gcb4
-
-
 ## **Title** 
 Recognizing and possibly solving problems in Vancouver’s public transport system using Data Science
 
